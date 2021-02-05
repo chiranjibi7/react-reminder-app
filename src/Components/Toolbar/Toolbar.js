@@ -47,7 +47,7 @@ const Toolbar = ({ count }) => {
       <Center fontWeight="bold">
         TOTAL REMINDER :{" "}
         <Text
-          bgColor="Teal"
+          // bgColor="Teal"
           p={3}
           ml={3}
           mt={2}
